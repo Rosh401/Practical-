@@ -3,7 +3,7 @@
   <title>ShopSmart</title>
   <style>
   body {
-            font-family: Arial, sans-serif;
+         font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
         }
@@ -14,7 +14,7 @@
             text-align: center;
         }
         nav {
-            background-color: #3076b8;
+            background-color: lightgray;
             padding: 20px;
             text-align: center;
         }
@@ -36,9 +36,11 @@
     <h1>ShopSmart</h1>
   </header>
   <nav>
+    <b>
     <a href="#">Home</a>
     <a href="#">About</a>
     <a href="#">Contact</a>
+    </b>
   </nav>
   <div class="banner">
     <h2>Welcome to shop smart</h2>
