@@ -29,6 +29,12 @@
             text-align: center;
             padding: 20px 20px;
         }
+        .product{
+            background-color: white;
+            padding: 20px;
+            align-items=center;
+          margin:-8px;
+          }
        footer{
             background-color: sky-blue;
             color: black;
@@ -51,6 +57,8 @@
     <h2>Welcome to shop smart</h2>
     <p>Discover the best product</p>
 </div>
+  <div class="product">
+    <img src="55772BMLR">
   <footer>
     <p>&copy; 2025 My Website</p>
   </footer>
