@@ -1,6 +1,6 @@
-<html lang="en">
+<html>
 <head>
-  <title>Simple Page</title>
+  <title>ShopSmart</title>
   <style>
   body {
             font-family: Arial, sans-serif;
@@ -8,7 +8,7 @@
             padding: 20px;
         }
         header {
-            background-color: #2c3e50;
+            background-color: gray;
             color: white;
             padding: 10px;
             text-align: center;
@@ -25,12 +25,12 @@
             font-weight: bold;
         }
         .banner {
-            background-color: #1d97b6;
+            background-color: #ddd;
             text-align: center;
             padding: 20px 20px;
         }
        footer{
-            background-color: #8ae0f0;
+            background-color: sky-blue;
             color: black;
             width: 100%;
             padding: 10px;
